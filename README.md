@@ -10,7 +10,7 @@ Welcome to our social app built with React Native and Expo! This app lets you br
     <p style="text-align: center; margin-top: 8px; color: #4a5568;">Home Feed</p>
   </div>
   <div style="flex: 1; min-width: 200px;">
-    <img src="assets/IMG_2.PNG" alt="Post Details" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="assets/IMG_7797.PNG" alt="Post Details" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <p style="text-align: center; margin-top: 8px; color: #4a5568;">Post Details</p>
   </div>
   <div style="flex: 1; min-width: 200px;">
